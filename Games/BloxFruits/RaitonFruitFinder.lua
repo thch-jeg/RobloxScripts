@@ -1,4 +1,4 @@
-ServerHopTimer = 10;
+/commands
 TeleportSafe = true;
 Team = "Marine";
 Webhook = "Your webhooks here...";
